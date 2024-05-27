@@ -1,0 +1,81 @@
+[{
+    "id":1,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":2,
+    "name":"Food book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":3,
+    "name":"Travel book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":200,
+    "category":"travel",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":4,
+    "name":"Inspiring book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":1000,
+    "category":"Motivation",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":5,
+    "name":"Romance book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":500,
+    "category":"Romance",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":6,
+    "name":"Fantasy",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":400,
+    "category":"fantasy",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":7,
+    "name":"Horror",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":8,
+    "name":"Advanture",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":390,
+    "category":"adventure",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":9,
+    "name":"Fantasy",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+},
+{
+    "id":10,
+    "name":"Autobiography",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "price":999,
+    "category":"Biography",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716386648~exp=1716390248~hmac=35ef6ded1c6c06abd1bc93ed96d314155e90e8a419a37e8d04175cfe504b9808&w=740"
+}
+]
