@@ -12,7 +12,19 @@ Demo
 https://drive.google.com/file/d/1anCq9IV0Qv_MJ6vDYkIEj3hNvNlx2wv7/view?usp=drive_link
 
 Technologies Used
-Frontend: React.js, Tailwind CSS
+## Technologies Used
+
+- **Frontend:** 
+  - ![React.js](https://logo.clearbit.com/reactjs.org) React.js
+  - ![Tailwind CSS](https://logo.clearbit.com/tailwindcss.com) Tailwind CSS
+
+- **Backend:** 
+  - ![Node.js](https://logo.clearbit.com/nodejs.org) Node.js
+  - ![Express.js](https://logo.clearbit.com/expressjs.com) Express.js
+
+- **Database:** 
+  - ![MongoDB](https://logo.clearbit.com/mongodb.com) MongoDB
+
 Backend: Node.js, Express.js, MongoDB (with Mongoose)
 Authentication: bcrypt, JSON Web Tokens (JWT)
 Deployment: [Deployment Platform] (e.g., Heroku, AWS)
